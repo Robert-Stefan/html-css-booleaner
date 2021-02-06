@@ -7,7 +7,7 @@ header {
   width: 13%;
   padding-left: 230px;
   padding-bottom: 20px;
-  padding-top: 90px;
+  padding-top: 80px;
   background-attachment: fixed;
 }
 .container {
@@ -69,4 +69,15 @@ h3 {
   width: 240px;
   height: 150px;
   background-image: url("./img/graph.jpg");
+}
+th,
+td {
+  padding: 15px;
+  width: 30%;
+}
+ul {
+  list-style-position: inside;
+  padding-left: 0px;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
