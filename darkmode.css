@@ -1,0 +1,91 @@
+header {
+    background-color: #252323;
+    background-image: url("./img/pattern.png");
+    background-attachment: fixed;
+  }
+  .logo {
+    width: 13%;
+    padding-left: 230px;
+    padding-bottom: 20px;
+    padding-top: 80px;
+    background-attachment: fixed;
+  }
+  .container {
+    width: 77%;
+    margin: 0px auto;
+    background-color: #181818;
+  }
+  main {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  h1 {
+    font-size: 50px;
+  }
+  .titolo2 {
+    color: gray;
+    font-size: 25px;
+    margin-top: -30px;
+  }
+  .sottotitolo {
+    font-size: 15px;
+    color: gray;
+    margin-bottom: 20px;
+  }
+  .titolini {
+    font-size: 10px;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  .row1 {
+    background-color: rgb(8, 87, 139);
+    color: white;
+  }
+  .row2 {
+    background-color: rgb(62, 113, 129);
+  }
+  .row3 {
+      background-color: rgb(160, 148, 148);
+  }
+  h3 {
+    color: gray;
+  }
+  .titimg {
+    margin: 0px;
+    background-image: url("./img/monitor.jpg");
+    background-repeat: no-repeat;
+    color: #ffffff;
+    font-size: 140%;
+    font-weight: normal;
+    text-align: left;
+    width: 240px;
+    height: 150px;
+  }
+  .titimg2 {
+    margin: 0px;
+    background-repeat: no-repeat;
+    color: #ffffff;
+    font-size: 140%;
+    font-weight: normal;
+    text-align: left;
+    width: 240px;
+    height: 150px;
+    background-image: url("./img/graph.jpg");
+  }
+  th,
+  td {
+    padding: 15px;
+    width: 30%;
+  }
+  ul {
+    list-style-position: inside;
+    padding-left: 0px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  body {
+      background-color: #181818;
+      color: white;
+  }
